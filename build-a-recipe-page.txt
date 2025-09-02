@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>How To Make Tonkatsu</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>How To Make Tonkatsu</h1>
+  <p>Tonkatsu is a type of fried pork cutlet from Japan that is coated with egg and panko.  This savory food pairs well with some plain white rice and curry.</p>
+  <h2>Ingredients</h2>
+  <ul>
+    <li>2 boneless pork chops</li>
+    <li>2 eggs(yolks and whites)</li>
+    <li>panko</li>
+    <li>salt and pepper(to taste)</li>
+    <li>oil</li>
+  </ul>
+  <h2>Instructions</h2>
+  <ol>
+    <li>Put oil in a pan and heat the pan to medium-high heat.</li>
+    <li>Beat eggs until both the whites and yolks are mixed and pat dry pork chops.</li>
+    <li>Put panko in seperate container that is big enough to put an entire pork chop inside of and add salt and pepper to panko</li>
+    <li>Dip each pork chop in the egg mixture, making sure to flip it so both sides have the egg mixture on it.</li>
+    <li>Dip each egg coated pork chop into the panko, making sure each side is completely coated in the mixture.</li>
+    <li>Put the pork chops in the heated pan, frying until golden brown, then flipping to fry the other side.</li>
+    <li>Once completely fried, put on a plate and let rest for five minutes.  Then you can severe with your choice of sides.</li>
+  </ol>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%22Amai-Yuwaku%22_Special_Loin_Pork_Cutlet1.jpg/330px-%22Amai-Yuwaku%22_Special_Loin_Pork_Cutlet1.jpg" alt="Tonkatsu, a Japanese fried pork cutlet with some rice">
+</body>
+</html>
+
+** end of index.html **
+
